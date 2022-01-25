@@ -1,0 +1,15 @@
+C:\workspace\PROJETO RPG DIO\bin\Debug\net6.0\PROJETO RPG DIO.exe
+C:\workspace\PROJETO RPG DIO\bin\Debug\net6.0\PROJETO RPG DIO.deps.json
+C:\workspace\PROJETO RPG DIO\bin\Debug\net6.0\PROJETO RPG DIO.runtimeconfig.json
+C:\workspace\PROJETO RPG DIO\bin\Debug\net6.0\PROJETO RPG DIO.dll
+C:\workspace\PROJETO RPG DIO\bin\Debug\net6.0\ref\PROJETO RPG DIO.dll
+C:\workspace\PROJETO RPG DIO\bin\Debug\net6.0\PROJETO RPG DIO.pdb
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.csproj.AssemblyReference.cache
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.AssemblyInfoInputs.cache
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.AssemblyInfo.cs
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.csproj.CoreCompileInputs.cache
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.dll
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\ref\PROJETO RPG DIO.dll
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.pdb
+C:\workspace\PROJETO RPG DIO\obj\Debug\net6.0\PROJETO RPG DIO.genruntimeconfig.cache
